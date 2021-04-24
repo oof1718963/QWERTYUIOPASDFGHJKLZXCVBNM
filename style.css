@@ -1,0 +1,26 @@
+body{
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    background-color: black;
+}
+.heading{
+    width:80%;
+    background:linear-gradient(to left,rgb(0, 0, 0),rgb(0, 0, 0));
+    color:black;
+    font-size:50px;
+    text-decoration: underline;
+    font-family: 'Hanalei Fill', cursive;
+}
+.heading:hover{
+    color:white;
+    background:linear-gradient(to left,black,grey);
+    text-decoration: underline;
+    font-family: 'Hanalei Fill', cursive;
+}
+.btn_none{
+    width:275px;
+    height:275px;
+    border-radius:50%;
+    border:50px white ridge;
+    font-size:30px;
+    background-color:black
+}
